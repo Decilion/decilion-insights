@@ -1,0 +1,23 @@
+Decilion Insights — Data & Code
+================================
+
+Data and analytical outputs (all .csv, .json, and .md files under reports/)
+---------------------------------------------------------------------------
+Licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
+You are free to share and adapt the material for any purpose, including commercially,
+provided you give appropriate credit to Decilion and cite the relevant report.
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+Attribution example:
+  García Ruiz, J. (2026). Made in the Region, Up to a Point: Pharmaceutical Supply
+  Security in Latin America and the Caribbean. Decilion Insights.
+  https://decilion.com/insights/drug-manufacturing-lac/
+
+Code (the reproduce.py scripts)
+-------------------------------
+MIT License. Copyright (c) 2026 Decilion.
+Permission is hereby granted, free of charge, to any person obtaining a copy of this
+software and associated files, to deal in the software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies, subject to including this notice. The software is
+provided "as is", without warranty of any kind.

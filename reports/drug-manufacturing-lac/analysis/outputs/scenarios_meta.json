@@ -1,0 +1,39 @@
+{
+  "config": {
+    "metric": "Extra-regional dependence of LAC pharmaceutical inputs",
+    "unit": "% extra-regional",
+    "baseline_value": 94,
+    "baseline_year": 2024,
+    "horizon_year": 2035,
+    "uncertainty_pct": 8,
+    "scenarios": [
+      {
+        "name": "Status quo",
+        "annual_change_pct": 0.2,
+        "assumption": "33 national strategies; no pooled API production or procurement"
+      },
+      {
+        "name": "Subregional blocs",
+        "annual_change_pct": -1.8,
+        "assumption": "Andean/Mercosur/CARICOM pooled procurement + selective API production"
+      },
+      {
+        "name": "Full regional integration",
+        "annual_change_pct": -3.5,
+        "assumption": "harmonized regulation + regional API platform + shared manufacturing"
+      }
+    ],
+    "clamp": [
+      0,
+      100
+    ],
+    "note": "Illustrative cost-of-inaction simulation, not a forecast; share bounded to [0,100]."
+  },
+  "reference_scenario": "Status quo",
+  "cumulative_vs_reference": {
+    "Status quo": 0.0,
+    "Subregional blocs": -117.73,
+    "Full regional integration": -206.19
+  },
+  "interpretation": "Cumulative % extra-regional 2024–2035 vs 'Status quo'. Negative = avoided burden."
+}

@@ -1,0 +1,34 @@
+iso3,country,archetype,import_usd,export_usd,exp_imp_ratio,rca_hs30
+CUB,Cuba,Data-opaque / non-reporter,,,,
+HTI,Haiti,Data-opaque / non-reporter,,,,
+VEN,Venezuela,Data-opaque / non-reporter,,,,
+LCA,Saint Lucia,Data-opaque / non-reporter,,,,
+KNA,Saint Kitts and Nevis,Data-opaque / non-reporter,,,,
+DOM,Dominican Republic,Specialized exporter (free-zone hub),1013110797.0,535222287.0,0.528,1.0365
+CRI,Costa Rica,Export-oriented formulator,1122112894.0,452495351.0,0.403,0.5696
+GTM,Guatemala,Export-oriented formulator,1120442042.0,423706633.0,0.378,0.7184
+SLV,El Salvador,Export-oriented formulator,646245002.0,175525073.0,0.272,0.696
+URY,Uruguay,Export-oriented formulator,426358333.0,197955883.0,0.464,0.4834
+BRA,Brazil,"Large domestic market (net importer, low export edge)",12587924236.0,1214395983.0,0.096,0.0902
+MEX,Mexico,"Large domestic market (net importer, low export edge)",8816912366.0,2740010888.0,0.311,0.1107
+COL,Colombia,"Large domestic market (net importer, low export edge)",3855610294.0,395968248.0,0.103,0.2
+ARG,Argentina,"Large domestic market (net importer, low export edge)",2486880726.0,865433285.0,0.348,0.2718
+CHL,Chile,"Large domestic market (net importer, low export edge)",2351159117.0,179542031.0,0.076,0.0454
+ECU,Ecuador,Mid-market importer,1189366360.0,29406932.0,0.025,
+PER,Peru,Mid-market importer,1143103130.0,98383645.0,0.086,0.0333
+PAN,Panama,Mid-market importer,824555463.0,33942508.0,0.041,
+HND,Honduras,Mid-market importer,757104314.0,46641887.0,0.062,
+NIC,Nicaragua,Mid-market importer,550872143.0,12519084.0,0.023,
+PRY,Paraguay,Mid-market importer,462436897.0,74717611.0,0.162,
+BOL,Bolivia,Mid-market importer,253851638.0,2054066.0,0.008,
+JAM,Jamaica,Small / Caribbean micro-importer,205318203.0,7886064.0,0.038,
+TTO,Trinidad and Tobago,Small / Caribbean micro-importer,198092299.0,3072667.0,0.016,
+BHS,Bahamas,Small / Caribbean micro-importer,69283663.0,287322.0,0.004,
+BRB,Barbados,Small / Caribbean micro-importer,47299450.0,30202487.0,0.639,
+GUY,Guyana,Small / Caribbean micro-importer,34475016.0,5536130.0,0.161,
+BLZ,Belize,Small / Caribbean micro-importer,17261050.0,709721.0,0.041,
+SUR,Suriname,Small / Caribbean micro-importer,15352618.0,59333.0,0.004,
+GRD,Grenada,Small / Caribbean micro-importer,9267509.0,96066.0,0.01,
+ATG,Antigua and Barbuda,Small / Caribbean micro-importer,9243383.0,390910.0,0.042,
+VCT,Saint Vincent and the Grenadines,Small / Caribbean micro-importer,5982481.0,,,
+DMA,Dominica,Small / Caribbean micro-importer,5282570.0,9556.0,0.002,
